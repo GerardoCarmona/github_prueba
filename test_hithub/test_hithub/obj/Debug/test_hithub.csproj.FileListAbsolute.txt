@@ -1,0 +1,6 @@
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\bin\Debug\test_hithub.exe.config
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\obj\Debug\test_hithub.csprojResolveAssemblyReference.cache
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\bin\Debug\test_hithub.exe
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\bin\Debug\test_hithub.pdb
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\obj\Debug\test_hithub.exe
+C:\Users\Gera\Documents\GitHub\github_prueba\test_hithub\test_hithub\obj\Debug\test_hithub.pdb
