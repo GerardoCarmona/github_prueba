@@ -14,6 +14,8 @@ namespace test_hithub
             Console.ReadLine();
             Console.WriteLine("probando nuevo commit");
             Console.ReadLine();
+            Console.WriteLine("probando nuevo commit desde VS");
+            Console.ReadLine();
         }
     }
 }
